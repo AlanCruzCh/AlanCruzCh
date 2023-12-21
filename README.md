@@ -16,9 +16,7 @@ Hola, mi nombre es Alan, soy un desarrollador Full Stack apasionado por dar vida
 
 ### Lenguajes de Programación
 
-<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" alt="Foto del Desarrollador" width="130px" />
-&nbsp;&nbsp;<img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="Foto del Desarrollador" width="70px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Foto del Desarrollador" width="80px" />
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" alt="Foto del Desarrollador" width="130px" />&nbsp;&nbsp;<img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="Foto del Desarrollador" width="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Foto del Desarrollador" width="80px" />
 
 ### Frameworks
 
