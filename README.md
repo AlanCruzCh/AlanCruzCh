@@ -17,22 +17,16 @@ Hola, mi nombre es Alan, soy un desarrollador Full Stack apasionado por dar vida
 ### Lenguajes de Programación
 
 <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" alt="Foto del Desarrollador" width="130px" />
-&nbsp;&nbsp;
-<img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="Foto del Desarrollador" width="70px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Foto del Desarrollador" width="80px" />
+&nbsp;&nbsp;<img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="Foto del Desarrollador" width="70px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Foto del Desarrollador" width="80px" />
 
 ### Frameworks
 
-<img src="https://rubensa.files.wordpress.com/2021/05/spring-boot-logo.png" alt="Foto del Desarrollador" width="140px" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.pinimg.com/originals/1d/78/36/1d7836b162169e9836b6761253132a81.png" alt="Foto del Desarrollador" width="140px" />
+<img src="https://rubensa.files.wordpress.com/2021/05/spring-boot-logo.png" alt="Foto del Desarrollador" width="140px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/1d/78/36/1d7836b162169e9836b6761253132a81.png" alt="Foto del Desarrollador" width="140px" />
 
 ### Bases de Datos
 
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="Foto del Desarrollador" width="140px" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cfvod.kaltura.com/p/2171811/sp/217181100/thumbnail/entry_id/1_ftczehvo/version/100011/width/478/height/269/width/478/height/269/type/3/quality/100" alt="Foto del Desarrollador" width="140px" />
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="Foto del Desarrollador" width="140px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cfvod.kaltura.com/p/2171811/sp/217181100/thumbnail/entry_id/1_ftczehvo/version/100011/width/478/height/269/width/478/height/269/type/3/quality/100" alt="Foto del Desarrollador" width="140px" />
 
 ## Experiencia Laboral 💼
 
